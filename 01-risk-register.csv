@@ -1,1 +1,2 @@
-
+ID,Risk,Description,Asset,Likelihood,Impact,Inherent Score,Existing Controls,Treatment,Planned Controls,AI RMF,OWASP LLM,NIST 800-53,Owner,Residual Score,Review Date
+R-01,Prompt injection,"Attacker crafts input that overrides chatbot instructions, causing disclosure of internal policy content or unauthorized responses",Ask Brightwater chatbot,4,4,16,Basic system prompt instructions,Mitigate,"Input filtering, output validation, adversarial testing before launch",MEASURE 2.7,LLM01:2025 Prompt Injection,SI-10,CISO,8,2027-01-15
