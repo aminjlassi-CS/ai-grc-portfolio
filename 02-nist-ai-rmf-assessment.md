@@ -20,3 +20,11 @@ Ask Brightwater chatbot and staff use of generative AI tools. See 00-company-pro
 | Subcategory | Current State | Gap | Recommendation | Priority | Maturity | Risk IDs |
 |---|---|---|---|---|---|---|
 | MEASURE 2.7 | TBD | TBD | TBD | TBD | TBD | TBD |
+
+## MANAGE
+| Subcategory | Current State | Gap | Recommendation | Priority | Maturity | Risk IDs |
+|---|---|---|---|---|---|---|
+| MANAGE 1.3 | TBD | TBD | TBD | TBD | TBD | TBD |
+
+## Summary of Findings
+TBD
