@@ -1,4 +1,5 @@
  AI GRC Portfolio
+ 
 A governance, risk, and compliance (GRC) assessment of a fictional New York credit union preparing to launch an AI chatbot.
 
 > All organizations, vendors, and data in this repository are fictional.
