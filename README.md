@@ -24,8 +24,12 @@ A governance, risk, and compliance (GRC) assessment of a fictional New York cred
 | 5 | Almost certain | Severe |
 
 Inherent Score = Likelihood × Impact
+
 Rating: 1–6 Low | 8–12 Medium | 15–25 High
-Treatment: Mitigate, Transfer, Accept, Avoid## Frameworks
+
+Treatment: Mitigate, Transfer, Accept, Avoid
+
+## Frameworks
 Final list to be confirmed on completion.
 
 ## Status
