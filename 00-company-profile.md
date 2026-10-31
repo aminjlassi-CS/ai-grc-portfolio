@@ -24,11 +24,15 @@ Brightwater Credit Union is a New York state-chartered, federally insured credit
    - Channels: website and mobile app
    - Phase 1 does not access individual member account data
    - System prompt contains no credentials or API keys
-   - Target launch: Q1 2027 Out of Scope
+   - Target launch: Q1 2027
+2. Staff use of generative AI tools
+   - Used for drafting communications, summarizing documents, and research
+   - Currently no formal policy governing approved tools or permitted data
+
+## Out of Scope
 - Core banking platform
 - Payment processing and card systems
 - Loan underwriting and credit decision systems
-
 ## Key Stakeholders
 - Chief Executive Officer: final risk acceptance authority
 - Chief Information Security Officer: owns the AI security risk program
