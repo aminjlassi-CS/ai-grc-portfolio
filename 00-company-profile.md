@@ -24,7 +24,7 @@ Brightwater Credit Union is a New York state-chartered, federally insured credit
    - Channels: website and mobile app
    - Phase 1 does not access individual member account data
    - Target launch: Q1 2027
-2. Staff use of generative AI tools
+   - System prompt contains no credentials or API keys2. Staff use of generative AI tools
    - Used for drafting communications, summarizing documents, and research
    - Currently no formal policy governing approved tools or permitted data
 
