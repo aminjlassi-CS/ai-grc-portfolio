@@ -23,12 +23,8 @@ Brightwater Credit Union is a New York state-chartered, federally insured credit
    - Retrieval augmented generation (RAG) over member FAQs, product disclosures, and internal policy documents
    - Channels: website and mobile app
    - Phase 1 does not access individual member account data
-   - Target launch: Q1 2027
-   - System prompt contains no credentials or API keys2. Staff use of generative AI tools
-   - Used for drafting communications, summarizing documents, and research
-   - Currently no formal policy governing approved tools or permitted data
-
-## Out of Scope
+   - System prompt contains no credentials or API keys
+   - Target launch: Q1 2027 Out of Scope
 - Core banking platform
 - Payment processing and card systems
 - Loan underwriting and credit decision systems
