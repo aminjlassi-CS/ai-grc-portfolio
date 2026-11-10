@@ -10,16 +10,19 @@ Brightwater Credit Union is a New York state-chartered, federally insured credit
 - Services: checking and savings accounts, auto loans, mortgages, credit cards, small business lending, and online and mobile banking
 
 ## Regulatory Environment
-- Gramm-Leach-Bliley Act (GLBA), implemented for credit unions through NCUA Part 748
+- Gramm-Leach-Bliley Act (GLBA), implemented for credit unions through NCUA Part 748, which also requires reporting a reportable cyber incident to NCUA within 72 hours
 - NYDFS 23 NYCRR Part 500 (Cybersecurity Requirements for Financial Services Companies)
 - New York SHIELD Act (data breach notification)
+- Truth in Savings Act, implemented for credit unions through NCUA Part 707 (deposit rate disclosures and advertising)
+- Truth in Lending Act, implemented through Regulation Z (loan rate disclosures and advertising)
 - NYDFS industry letter on cybersecurity risks arising from artificial intelligence (October 2024)
+- NCUA Letters to Credit Unions 01-CU-20 (Due Diligence Over Third Party Service Providers) and 07-CU-13 (Evaluating Third Party Relationships)
 - Framework adopted: NIST Cybersecurity Framework (CSF) 2.0
 
 ## AI Systems in Scope
 1. "Ask Brightwater" – member-facing chatbot
    - Purpose: answer general member questions about products, rates, hours, and account procedures
-   - LLM provider: Nimbus AI (fictional), accessed through a third-party API
+   - LLM provider: Nimbus AI (fictional), accessed through the vendor's hosted API
    - Retrieval augmented generation (RAG) over member FAQs, product disclosures, and internal policy documents
    - Channels: website and mobile app
    - Phase 1 does not access individual member account data
@@ -33,6 +36,7 @@ Brightwater Credit Union is a New York state-chartered, federally insured credit
 - Core banking platform
 - Payment processing and card systems
 - Loan underwriting and credit decision systems
+
 ## Key Stakeholders
 - Chief Executive Officer: final risk acceptance authority
 - Chief Information Security Officer: owns the AI security risk program
