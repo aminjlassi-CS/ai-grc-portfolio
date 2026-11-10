@@ -25,6 +25,8 @@ Brightwater Credit Union is a New York state-chartered, federally insured credit
    - LLM provider: Nimbus AI (fictional), accessed through the vendor's hosted API
    - Retrieval augmented generation (RAG) over member FAQs, product disclosures, and internal policy documents
    - Channels: website and mobile app
+   - The chat interface renders links and formatted text; the mobile app displays it in an embedded web view
+   - The chat interface currently shares an origin with authenticated online banking pages
    - Phase 1 does not access individual member account data
    - System prompt contains no credentials or API keys
    - Target launch: Q1 2027
