@@ -1,3 +1,4 @@
+
 # AI GRC Portfolio
  
 A governance, risk, and compliance (GRC) assessment of a fictional New York credit union preparing to launch an AI chatbot.
@@ -23,11 +24,17 @@ A governance, risk, and compliance (GRC) assessment of a fictional New York cred
 | 4 | Likely | Major |
 | 5 | Almost certain | Severe |
 
-Inherent Score = Likelihood × Impact
+Likelihood is the chance that the risk event occurs, not the chance that it is attempted.
+
+Inherent Score = Likelihood × Impact, scored with existing controls only
+
+Residual Score = Residual Likelihood × Residual Impact, scored after planned controls are in place
 
 Rating: 1–6 Low | 8–12 Medium | 15–25 High
 
 Treatment: Mitigate, Transfer, Accept, Avoid
+
+OWASP LLM references use the OWASP Top 10 for LLM Applications 2026 edition.
 
 ## Frameworks
 Final list to be confirmed on completion.
