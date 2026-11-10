@@ -5,7 +5,13 @@
 |---|---|---|---|---|
 | Nimbus AI (fictional) | LLM API for Ask Brightwater | Member questions, RAG content | High | TBD |
 
+## Guidance Applied
+- NCUA Letter to Credit Unions 01-CU-20, Due Diligence Over Third Party Service Providers
+- NCUA Letter to Credit Unions 07-CU-13, Evaluating Third Party Relationships
+
 ## Assessment
+Scoring: 1 = lowest risk, 5 = highest risk. This scale is defined for this assessment.
+
 | Area | Question | Vendor Response | Score (1–5) | Notes |
 |---|---|---|---|---|
 | Data Handling and Retention | TBD | TBD | TBD | TBD |
