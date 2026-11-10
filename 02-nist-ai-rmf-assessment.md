@@ -6,6 +6,8 @@ Ask Brightwater chatbot and staff use of generative AI tools. See 00-company-pro
 ## Maturity Scale
 1 – Initial | 2 – Developing | 3 – Defined | 4 – Managed
 
+This scale is defined for this assessment. NIST AI RMF does not define maturity levels.
+
 ## GOVERN
 | Subcategory | Current State | Gap | Recommendation | Priority | Maturity | Risk IDs |
 |---|---|---|---|---|---|---|
